@@ -1,0 +1,104 @@
+﻿  lab_5.cpp
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(59,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(60,9): error C2065: push: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(60,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(60,14): error C2065: si: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(61,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(61,9): error C2065: push: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(61,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(61,14): error C2065: cx: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(62,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(62,9): error C2065: push: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(62,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dx"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(62,14): error C2065: dx: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,13): error C2065: si: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,22): error C2065: Указатель: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "на"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,41): error C2065: на: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "строку"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(64,46): error C2065: строку: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(66,11): error C2065: Проверка: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(66,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "знака"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(66,28): error C2065: знака: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(67,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(67,9): error C2065: mov: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(67,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(67,13): error C2065: al: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(68,13): error C2760: синтаксическая ошибка: непредвиденный элемент "cmp". Ожидается "{"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(68,17): error C2065: al: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(69,17): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "je"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,19): error C2065: Если: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "знака"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,28): error C2065: знака: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "нет"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,39): error C2065: нет: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,47): error C2065: предполагаем: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,72): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "положительное"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(73,72): error C2065: положительное: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(74,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(74,17): error C2065: jmp: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(74,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "convert_digits"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(74,21): error C2065: convert_digits: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(76,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "positive"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(77,13): error C2065: inc: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(77,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(77,17): error C2065: si: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(78,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(78,17): error C2065: jmp: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(78,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "convert_digits"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(78,21): error C2065: convert_digits: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(80,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "negative"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(81,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(81,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sign"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(82,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "inc"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(82,17): error C2065: inc: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(82,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "si"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(82,21): error C2065: si: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(84,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "convert_digits"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(85,17): error C2065: ax: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(85,13): error C3192: синтаксическая ошибка: "^" не является префиксным оператором (возможно, имелось в виду "*"?)
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(85,21): error C2065: ax: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(86,21): error C2065: cx: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(86,25): error C2065: cx: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(88,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "digit_loop"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(89,13): error C2065: mov: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(89,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cl"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(89,17): error C2065: cl: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,17): error C2760: синтаксическая ошибка: непредвиденный элемент "cmp". Ожидается "{"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,21): error C2065: cl: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,26): error C2059: синтаксическая ошибка: ;
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,28): error C2065: Конец: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "строки"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(90,39): error C2065: строки: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(91,21): error C2065: je: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(91,24): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "conversion_done"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(105,19): error C2065: Применяем: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(105,38): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "знак"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(105,38): error C2065: знак: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(106,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(106,21): error C2065: cmp: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(106,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "sign"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(107,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jne"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(107,21): error C2065: jne: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(107,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "store_result"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(107,25): error C2065: store_result: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(108,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "neg"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(108,21): error C2065: neg: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(108,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(108,25): error C2065: ax: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(110,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "store_result"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,17): error C2065: mov: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,29): error C2065: al: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,33): error C2065: Сохраняем: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,52): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "результат"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,71): error C2065: байт: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(111,52): error C3861: результат: идентификатор не найден
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(113,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pop"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(113,21): error C2065: pop: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(113,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dx"
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(113,25): error C2065: dx: необъявленный идентификатор
+C:\Users\Руслан\Desktop\program2\lab_5\lab_5\lab_5.cpp(113,25): error C1003: число ошибок превышает 100; остановка компиляции
