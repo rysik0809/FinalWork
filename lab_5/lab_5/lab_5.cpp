@@ -9,8 +9,8 @@ int func(char a, char b, char c, char d, char e);
 
 int main() {
     char input[10] = { 0 };
-    char args[5] = { 0 };
-    char buffer[10] = { 0 };
+    char args[5] = { 0 };//Arguments
+    char buffer[10] = { 0 };//Buffer
 
     printf("function: y = a/b - c*d + e\n");
     printf("Input numbers, byte values (-128..127)\n\n");
