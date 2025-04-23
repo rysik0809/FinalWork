@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\Desktop\\program2\\lab_5\\",
+  "WorkspaceRootPath": "D:\\lab_8\\lab_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD291C9-E13B-4A31-A08F-A887245B4047}|lab_5\\lab_5.vcxproj|C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\Desktop\\program2\\lab_5\\lab_5\\lab_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6DD291C9-E13B-4A31-A08F-A887245B4047}|lab_5\\lab_5.vcxproj|D:\\lab_8\\lab_5\\lab_5\\lab_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6DD291C9-E13B-4A31-A08F-A887245B4047}|lab_5\\lab_5.vcxproj|solutionrelative:lab_5\\lab_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab_5.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\Desktop\\program2\\lab_5\\lab_5\\lab_5.cpp",
+              "DocumentMoniker": "D:\\lab_8\\lab_5\\lab_5\\lab_5.cpp",
               "RelativeDocumentMoniker": "lab_5\\lab_5.cpp",
-              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\Desktop\\program2\\lab_5\\lab_5\\lab_5.cpp",
+              "ToolTip": "D:\\lab_8\\lab_5\\lab_5\\lab_5.cpp",
               "RelativeToolTip": "lab_5\\lab_5.cpp",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAAALAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-12T14:23:51.833Z",
               "EditorCaption": ""

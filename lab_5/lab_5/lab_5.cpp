@@ -11,13 +11,12 @@ int main() {
     char input[10] = { 0 };
     char args[5] = { 0 };
     char buffer[10] = { 0 };
-    int i = 0;
 
     printf("function: y = a/b - c*d + e\n");
     printf("Input numbers, byte values (-128..127)\n\n");
 
     const char* prompts[] = { "a: ", "b: ", "c: ", "d: ", "e: " };
-    for (i = 0; i < 5; i++) {
+    for (int i = 0; i < 5; i++) {
         printf("%s", prompts[i]);
         fgets(input, sizeof(input), stdin);
         input[strcspn(input, "\n")] = '\0';
